@@ -728,7 +728,7 @@
     <ClCompile Include="..\..\src\joystick\windows\SDL_xinputjoystick.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\thread\windows\SDL_syscond_srw.c">
+    <ClCompile Include="..\..\src\thread\windows\SDL_syscond_cv.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\src\thread\windows\SDL_sysmutex.c">
